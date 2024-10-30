@@ -96,6 +96,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Thank you to all the contributors who helped build this project!
+- Thank you to Ankan Kumar Mitra who helped build the project documentation!
 - Inspiration from various online resources and design patterns.
 
